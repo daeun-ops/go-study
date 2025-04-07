@@ -13,5 +13,7 @@ func main() {
     f := a * int(e)
 
     fmt.Println(a,b,c,d,e,f)
+
+    
     
 }
