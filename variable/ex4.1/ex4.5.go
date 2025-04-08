@@ -11,6 +11,7 @@ func main() {
 
     var e int64 = 7 
     f := a * int(e)
+    
 
     fmt.Println(a,b,c,d,e,f)
 
