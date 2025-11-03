@@ -8,3 +8,4 @@
 // Mon Nov  3 15:36:41 KST 2025 - feat(chaos): integrate chaos-mesh experiment CRDs for node crash test
 // Mon Nov  3 15:36:41 KST 2025 - fix(recovery): prevent double leader election after failover
 // Mon Nov  3 15:36:41 KST 2025 - perf(runtime): reduce memory fragmentation in worker pool scheduler
+// Mon Nov  3 15:36:41 KST 2025 - test(load): run sustained stress test under 2000 concurrent agents
