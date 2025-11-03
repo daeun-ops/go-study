@@ -44,3 +44,4 @@
 // Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
 // Mon Nov  3 15:53:42 KST 2025 - feat(helm): create Helm chart for Kubernetes deployment
 // Mon Nov  3 15:53:42 KST 2025 - docs(architecture): update observability diagram
+// Mon Nov  3 15:53:42 KST 2025 - perf(metrics): optimize metric collection under load
