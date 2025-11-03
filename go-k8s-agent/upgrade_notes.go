@@ -10,3 +10,4 @@
 // Mon Nov  3 15:26:01 KST 2025 - ci(release): enable semver tagging via GoReleaser
 // Mon Nov  3 15:26:01 KST 2025 - feat(tracing): add OpenTelemetry spans for agent sync cycle
 // Mon Nov  3 15:26:01 KST 2025 - chore(logging): switch zap logger to structured JSON mode
+// Mon Nov  3 15:26:01 KST 2025 - fix(controller): handle nil pointer panic on pod eviction
