@@ -12,3 +12,4 @@
 // Mon Nov  3 15:36:41 KST 2025 - feat(opencost): add cost breakdown by namespace and workload labels
 // Mon Nov  3 15:36:41 KST 2025 - chore(alerts): define alert thresholds for abnormal cost spikes
 // Mon Nov  3 15:36:41 KST 2025 - refactor(ci): add chaos test stage to GitHub Actions workflow
+// Mon Nov  3 15:36:41 KST 2025 - perf(cache): tune TTL based on observed cost anomaly patterns
