@@ -11,3 +11,4 @@
 // Mon Nov  3 15:36:41 KST 2025 - test(load): run sustained stress test under 2000 concurrent agents
 // Mon Nov  3 15:36:41 KST 2025 - feat(opencost): add cost breakdown by namespace and workload labels
 // Mon Nov  3 15:36:41 KST 2025 - chore(alerts): define alert thresholds for abnormal cost spikes
+// Mon Nov  3 15:36:41 KST 2025 - refactor(ci): add chaos test stage to GitHub Actions workflow
