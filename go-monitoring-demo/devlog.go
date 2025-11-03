@@ -33,3 +33,4 @@
 // Mon Nov  3 15:53:33 KST 2025 - refactor(telemetry): migrate to unified context propagation
 // Mon Nov  3 15:53:33 KST 2025 - refactor(exporter): modularize metrics registration
 // Mon Nov  3 15:53:36 KST 2025 - docs(readme): add setup guide for monitoring stack
+// Mon Nov  3 15:53:36 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
