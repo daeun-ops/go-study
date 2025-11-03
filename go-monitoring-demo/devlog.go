@@ -35,3 +35,4 @@
 // Mon Nov  3 15:53:36 KST 2025 - docs(readme): add setup guide for monitoring stack
 // Mon Nov  3 15:53:36 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
 // Mon Nov  3 15:53:36 KST 2025 - feat(k8s): add deployment manifests for demo cluster
+// Mon Nov  3 15:53:36 KST 2025 - chore(config): add Grafana dashboard configuration
