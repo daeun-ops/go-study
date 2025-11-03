@@ -5,3 +5,4 @@
 // Mon Nov  3 15:31:05 KST 2025 - ci(e2e): add integration tests for high-availability setup
 // Mon Nov  3 15:31:05 KST 2025 - docs(architecture): update diagrams for v2.0 rollout
 // Mon Nov  3 15:31:05 KST 2025 - chore(build): integrate GoReleaser with Docker multi-arch build
+// Mon Nov  3 15:31:05 KST 2025 - fix(metrics): resolve duplicate gauge registration in exporter
