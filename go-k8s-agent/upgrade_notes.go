@@ -5,3 +5,4 @@
 // Mon Nov  3 15:26:01 KST 2025 - fix(metrics): correct Prometheus exporter latency labels
 // Mon Nov  3 15:26:01 KST 2025 - docs(readme): add architecture diagram for Go-based K8s Agent
 // Mon Nov  3 15:26:01 KST 2025 - test(unit): cover graceful shutdown handler under node drain event
+// Mon Nov  3 15:26:01 KST 2025 - feat(agent): introduce live reload for configmap updates
