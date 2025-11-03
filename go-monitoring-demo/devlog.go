@@ -30,3 +30,4 @@
 // Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
 // Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
 // Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
+// Mon Nov  3 15:53:33 KST 2025 - refactor(telemetry): migrate to unified context propagation
