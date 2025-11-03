@@ -9,3 +9,4 @@
 // Mon Nov  3 15:53:26 KST 2025 - feat(telemetry): integrate OpenTelemetry tracer with gRPC
 // Mon Nov  3 15:53:26 KST 2025 - fix(exporter): correct invalid metric labels
 // Mon Nov  3 15:53:26 KST 2025 - chore(init): bootstrap project structure and CI pipeline
+// Mon Nov  3 15:53:26 KST 2025 - docs(readme): add setup guide for monitoring stack
