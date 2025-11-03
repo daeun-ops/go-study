@@ -37,3 +37,14 @@
 // Mon Nov  3 15:53:36 KST 2025 - feat(k8s): add deployment manifests for demo cluster
 // Mon Nov  3 15:53:36 KST 2025 - chore(config): add Grafana dashboard configuration
 // Mon Nov  3 15:53:36 KST 2025 - feat(telemetry): integrate OpenTelemetry tracer with gRPC
+// Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
+// Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
+// Mon Nov  3 15:53:39 KST 2025 - docs(architecture): update observability diagram
+// Mon Nov  3 15:53:39 KST 2025 - chore(config): add Grafana dashboard configuration
+// Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
+// Mon Nov  3 15:53:42 KST 2025 - feat(helm): create Helm chart for Kubernetes deployment
+// Mon Nov  3 15:53:42 KST 2025 - docs(architecture): update observability diagram
+// Mon Nov  3 15:53:42 KST 2025 - perf(metrics): optimize metric collection under load
+// Mon Nov  3 15:53:42 KST 2025 - chore(init): bootstrap project structure and CI pipeline
+// Mon Nov  3 15:53:42 KST 2025 - perf(metrics): optimize metric collection under load
+// Mon Nov  3 15:53:42 KST 2025 - fix(logging): handle concurrent writes in structured logger
