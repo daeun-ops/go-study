@@ -32,6 +32,13 @@
 
 <img width="324" height="466" alt="image" src="https://github.com/user-attachments/assets/2f858f56-ec5f-4e13-8369-dc0b798637ad" />
 
+
+<img width="948" height="265" alt="image" src="https://github.com/user-attachments/assets/fe3f695f-e603-4f3f-8899-5a8b0613442c" />
+
+
+
+
+
 ## 대시보드 내용 요약
 
 | 패널 | 설명 | 의미 |
