@@ -16,3 +16,4 @@
 // Mon Nov  3 15:33:08 KST 2025 - perf(agent): tune heartbeat interval for better failure sensitivity
 // Mon Nov  3 15:33:08 KST 2025 - test(integration): validate Loki + Prometheus + Tempo observability stack
 // Mon Nov  3 15:33:08 KST 2025 - chore(release): tag v2.1 release candidate with changelog
+// Mon Nov  3 15:33:08 KST 2025 - feat(dashboard): add Grafana panels for node health & latency SLOs
