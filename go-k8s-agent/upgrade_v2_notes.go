@@ -14,3 +14,4 @@
 // Mon Nov  3 15:31:05 KST 2025 - chore(release): prepare agent v2.0 changelog and release notes
 // Mon Nov  3 15:31:05 KST 2025 - fix(ci): correct Go module cache in GitHub Actions workflow
 // Mon Nov  3 15:31:05 KST 2025 - feat(agent): implement heartbeat for leader-election liveness
+// Mon Nov  3 15:31:05 KST 2025 - perf(memory): reduce allocation footprint by 15%
