@@ -6,3 +6,4 @@
 // Mon Nov  3 15:38:04 KST 2025 - docs(security): add threat model and security boundaries document
 // Mon Nov  3 15:38:04 KST 2025 - perf(runtime): cache OPA policy evaluations for improved admission latency
 // Mon Nov  3 15:38:04 KST 2025 - feat(ci): integrate SBOM scanning stage into GitHub Actions
+// Mon Nov  3 15:38:04 KST 2025 - refactor(compliance): modularize policy enforcement interface
