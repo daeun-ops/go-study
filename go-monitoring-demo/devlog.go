@@ -28,3 +28,4 @@
 // Mon Nov  3 15:53:33 KST 2025 - feat(helm): create Helm chart for Kubernetes deployment
 // Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
 // Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
+// Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
