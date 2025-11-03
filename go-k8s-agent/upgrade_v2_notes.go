@@ -10,3 +10,4 @@
 // Mon Nov  3 15:31:05 KST 2025 - perf(agent): optimize CPU-bound tasks with worker pools
 // Mon Nov  3 15:31:05 KST 2025 - test(e2e): validate autoscaler behavior under 500 pod load
 // Mon Nov  3 15:31:05 KST 2025 - feat(tracing): integrate Datadog APM via OpenTelemetry bridge
+// Mon Nov  3 15:31:05 KST 2025 - refactor(api): simplify CRD event handling logic
