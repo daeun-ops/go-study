@@ -2,3 +2,4 @@
 // Mon Nov  3 15:38:04 KST 2025 - feat(policy): add Kyverno rule to enforce image tag immutability
 // Mon Nov  3 15:38:04 KST 2025 - chore(supply-chain): generate SBOM using Syft for all Go modules
 // Mon Nov  3 15:38:04 KST 2025 - feat(signing): add Cosign keyless signing for container artifacts
+// Mon Nov  3 15:38:04 KST 2025 - fix(policy): correct Kyverno resource selector for agent deployments
