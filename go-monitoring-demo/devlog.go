@@ -17,3 +17,4 @@
 // Mon Nov  3 15:53:30 KST 2025 - perf(metrics): optimize metric collection under load
 // Mon Nov  3 15:53:30 KST 2025 - refactor(exporter): modularize metrics registration
 // Mon Nov  3 15:53:30 KST 2025 - feat(k8s): add deployment manifests for demo cluster
+// Mon Nov  3 15:53:30 KST 2025 - fix(logging): handle concurrent writes in structured logger
