@@ -11,3 +11,4 @@
 // Mon Nov  3 15:33:08 KST 2025 - chore(logging): enrich structured logs with correlation IDs
 // Mon Nov  3 15:33:08 KST 2025 - fix(ci): stabilize flaky test in failover manager suite
 // Mon Nov  3 15:33:08 KST 2025 - docs(architecture): add failover sequence diagram and metrics flow
+// Mon Nov  3 15:33:08 KST 2025 - feat(alerting): hook Grafana alert to Slack webhook integration
