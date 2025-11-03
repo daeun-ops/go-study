@@ -16,3 +16,4 @@
 // Mon Nov  3 15:36:41 KST 2025 - docs(architecture): update DR topology diagram and chaos flow
 // Mon Nov  3 15:36:41 KST 2025 - fix(metrics): handle missing Opencost data gracefully
 // Mon Nov  3 15:36:41 KST 2025 - chore(logging): tag logs with region/zone info for multi-region DR
+// Mon Nov  3 15:36:41 KST 2025 - feat(dr): automate backup restore validation for agent state
