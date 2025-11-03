@@ -17,3 +17,4 @@
 // Mon Nov  3 15:26:01 KST 2025 - test(integration): validate multi-namespace discovery with mock clusters
 // Mon Nov  3 15:26:01 KST 2025 - perf(cache): implement TTL cache for K8s object metadata
 // Mon Nov  3 15:26:01 KST 2025 - feat(metrics): expose build info and version labels in /metrics endpoint
+// Mon Nov  3 15:26:01 KST 2025 - chore(release): finalize agent upgrade rollout manifest
