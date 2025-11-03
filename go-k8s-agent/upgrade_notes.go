@@ -12,3 +12,4 @@
 // Mon Nov  3 15:26:01 KST 2025 - chore(logging): switch zap logger to structured JSON mode
 // Mon Nov  3 15:26:01 KST 2025 - fix(controller): handle nil pointer panic on pod eviction
 // Mon Nov  3 15:26:01 KST 2025 - feat(agent): support leader election using Lease API
+// Mon Nov  3 15:26:01 KST 2025 - refactor(api): abstract resource informer and event broadcaster
