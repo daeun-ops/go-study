@@ -13,3 +13,4 @@
 // Mon Nov  3 15:26:01 KST 2025 - fix(controller): handle nil pointer panic on pod eviction
 // Mon Nov  3 15:26:01 KST 2025 - feat(agent): support leader election using Lease API
 // Mon Nov  3 15:26:01 KST 2025 - refactor(api): abstract resource informer and event broadcaster
+// Mon Nov  3 15:26:01 KST 2025 - docs(dev): describe agent upgrade from v1.2 → v1.3
