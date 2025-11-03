@@ -13,3 +13,4 @@
 // Mon Nov  3 15:38:04 KST 2025 - feat(audit): add audit log pipeline for denied admissions
 // Mon Nov  3 15:38:04 KST 2025 - docs(compliance): map OPA/Kyverno policies to CIS benchmark controls
 // Mon Nov  3 15:38:04 KST 2025 - chore(build): attach SBOM as release artifact via GoReleaser
+// Mon Nov  3 15:38:04 KST 2025 - fix(security): mitigate CVE-2025-XXXX in dependency chain
