@@ -17,3 +17,4 @@
 // Mon Nov  3 15:36:41 KST 2025 - fix(metrics): handle missing Opencost data gracefully
 // Mon Nov  3 15:36:41 KST 2025 - chore(logging): tag logs with region/zone info for multi-region DR
 // Mon Nov  3 15:36:41 KST 2025 - feat(dr): automate backup restore validation for agent state
+// Mon Nov  3 15:36:41 KST 2025 - release(v2.2): finalize reliability & cost optimization rollout
