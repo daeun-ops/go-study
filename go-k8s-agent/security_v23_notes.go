@@ -17,3 +17,4 @@
 // Mon Nov  3 15:38:04 KST 2025 - refactor(ci): separate vulnerability scanning job for clarity
 // Mon Nov  3 15:38:04 KST 2025 - feat(alerting): add Grafana dashboard for policy violation metrics
 // Mon Nov  3 15:38:04 KST 2025 - chore(signing): add Cosign public key to repository secrets
+// Mon Nov  3 15:38:04 KST 2025 - release(v2.3): finalize security & compliance hardening rollout
