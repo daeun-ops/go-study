@@ -1,0 +1,41 @@
+apiVersion: 1
+
+groups:
+  - orgId: 1
+    name: FinOps_Alerts
+    folder: FinOps
+    interval: 30s
+    rules:
+      - uid: finops_cost_threshold
+        title: "⚠️ FinOps Cost Exceeded Threshold"
+        condition: C
+        data:
+          - refId: A
+            datasourceUid: prometheus
+            model:
+              expr: rate(process_cpu_seconds_total[1m]) * 0.05
+              interval: ""
+              legendFormat: "FinOps Cost ($/hr)"
+              refId: A
+          - refId: B
+            datasourceUid: "__expr__"
+            model:
+              conditions:
+                - evaluator:
+                    params: [0.05]
+                    type: gt
+                  operator:
+                    type: and
+                  query:
+                    params: ["A"]
+                  reducer:
+                    type: avg
+                  type: query
+        no_data_state: OK
+        exec_err_state: Alerting
+        for: 2m
+        annotations:
+          summary: "FinOps cost exceeded $0.05/hr threshold!"
+          description: "Current cost has gone above the defined limit."
+        labels:
+          severity: "critical"

@@ -1,0 +1,7 @@
+{
+  "title": "Go K8s Agent Overview",
+  "panels": [
+    { "type": "graph", "title": "Node Count", "targets": [{"expr": "k8s_nodes_total"}] },
+    { "type": "graph", "title": "Pod Count", "targets": [{"expr": "k8s_pods_total"}] }
+  ]
+}
