@@ -7,3 +7,4 @@
 // Mon Nov  3 15:36:41 KST 2025 - refactor(controller): add retry mechanism for cross-region API calls
 // Mon Nov  3 15:36:41 KST 2025 - feat(chaos): integrate chaos-mesh experiment CRDs for node crash test
 // Mon Nov  3 15:36:41 KST 2025 - fix(recovery): prevent double leader election after failover
+// Mon Nov  3 15:36:41 KST 2025 - perf(runtime): reduce memory fragmentation in worker pool scheduler
