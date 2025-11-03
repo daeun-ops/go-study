@@ -13,3 +13,4 @@
 // Mon Nov  3 15:33:08 KST 2025 - docs(architecture): add failover sequence diagram and metrics flow
 // Mon Nov  3 15:33:08 KST 2025 - feat(alerting): hook Grafana alert to Slack webhook integration
 // Mon Nov  3 15:33:08 KST 2025 - refactor(runtime): isolate failover controller for independent scaling
+// Mon Nov  3 15:33:08 KST 2025 - perf(agent): tune heartbeat interval for better failure sensitivity
