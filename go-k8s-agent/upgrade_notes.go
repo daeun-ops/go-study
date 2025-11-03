@@ -7,3 +7,4 @@
 // Mon Nov  3 15:26:01 KST 2025 - test(unit): cover graceful shutdown handler under node drain event
 // Mon Nov  3 15:26:01 KST 2025 - feat(agent): introduce live reload for configmap updates
 // Mon Nov  3 15:26:01 KST 2025 - perf(runtime): improve goroutine pool handling for concurrent pods
+// Mon Nov  3 15:26:01 KST 2025 - ci(release): enable semver tagging via GoReleaser
