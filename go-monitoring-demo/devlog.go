@@ -47,3 +47,4 @@
 // Mon Nov  3 15:53:42 KST 2025 - perf(metrics): optimize metric collection under load
 // Mon Nov  3 15:53:42 KST 2025 - chore(init): bootstrap project structure and CI pipeline
 // Mon Nov  3 15:53:42 KST 2025 - perf(metrics): optimize metric collection under load
+// Mon Nov  3 15:53:42 KST 2025 - fix(logging): handle concurrent writes in structured logger
