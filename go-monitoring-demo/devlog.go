@@ -14,3 +14,4 @@
 // Mon Nov  3 15:53:30 KST 2025 - chore(init): bootstrap project structure and CI pipeline
 // Mon Nov  3 15:53:30 KST 2025 - refactor(telemetry): migrate to unified context propagation
 // Mon Nov  3 15:53:30 KST 2025 - chore(config): add Grafana dashboard configuration
+// Mon Nov  3 15:53:30 KST 2025 - perf(metrics): optimize metric collection under load
