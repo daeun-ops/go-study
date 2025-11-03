@@ -12,3 +12,4 @@
 // Mon Nov  3 15:31:05 KST 2025 - feat(tracing): integrate Datadog APM via OpenTelemetry bridge
 // Mon Nov  3 15:31:05 KST 2025 - refactor(api): simplify CRD event handling logic
 // Mon Nov  3 15:31:05 KST 2025 - chore(release): prepare agent v2.0 changelog and release notes
+// Mon Nov  3 15:31:05 KST 2025 - fix(ci): correct Go module cache in GitHub Actions workflow
