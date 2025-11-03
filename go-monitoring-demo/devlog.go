@@ -37,3 +37,4 @@
 // Mon Nov  3 15:53:36 KST 2025 - feat(k8s): add deployment manifests for demo cluster
 // Mon Nov  3 15:53:36 KST 2025 - chore(config): add Grafana dashboard configuration
 // Mon Nov  3 15:53:36 KST 2025 - feat(telemetry): integrate OpenTelemetry tracer with gRPC
+// Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
