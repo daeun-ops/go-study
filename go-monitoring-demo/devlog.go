@@ -26,3 +26,4 @@
 // Mon Nov  3 15:53:33 KST 2025 - refactor(exporter): modularize metrics registration
 // Mon Nov  3 15:53:33 KST 2025 - feat(k8s): add deployment manifests for demo cluster
 // Mon Nov  3 15:53:33 KST 2025 - feat(helm): create Helm chart for Kubernetes deployment
+// Mon Nov  3 15:53:33 KST 2025 - feat(exporter): implement basic Prometheus metrics exporter
