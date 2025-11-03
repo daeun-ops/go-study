@@ -17,3 +17,4 @@
 // Mon Nov  3 15:31:05 KST 2025 - perf(memory): reduce allocation footprint by 15%
 // Mon Nov  3 15:31:05 KST 2025 - test(integration): simulate node failure scenario recovery
 // Mon Nov  3 15:31:05 KST 2025 - docs(readme): add usage example for Helm installation
+// Mon Nov  3 15:31:05 KST 2025 - chore(logging): standardize structured log fields across components
