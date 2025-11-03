@@ -3,3 +3,4 @@
 // Mon Nov  3 15:33:08 KST 2025 - feat(alerts): integrate Prometheus alert rules for pod restart anomalies
 // Mon Nov  3 15:33:08 KST 2025 - fix(healthcheck): correct false positives in readiness probe logic
 // Mon Nov  3 15:33:08 KST 2025 - chore(metrics): expose failover count metric in /metrics endpoint
+// Mon Nov  3 15:33:08 KST 2025 - feat(observability): integrate Loki for structured log aggregation
