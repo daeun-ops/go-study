@@ -39,3 +39,4 @@
 // Mon Nov  3 15:53:36 KST 2025 - feat(telemetry): integrate OpenTelemetry tracer with gRPC
 // Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
 // Mon Nov  3 15:53:39 KST 2025 - feat(dashboard): extend Grafana panels for latency & CPU
+// Mon Nov  3 15:53:39 KST 2025 - docs(architecture): update observability diagram
