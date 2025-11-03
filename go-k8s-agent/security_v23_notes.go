@@ -10,3 +10,4 @@
 // Mon Nov  3 15:38:04 KST 2025 - chore(deps): bump Go modules to latest secure versions
 // Mon Nov  3 15:38:04 KST 2025 - feat(signing): verify Cosign signatures before rollout
 // Mon Nov  3 15:38:04 KST 2025 - test(policy): simulate Kyverno policy violations with mock manifests
+// Mon Nov  3 15:38:04 KST 2025 - feat(audit): add audit log pipeline for denied admissions
