@@ -14,3 +14,4 @@
 // Mon Nov  3 15:33:08 KST 2025 - feat(alerting): hook Grafana alert to Slack webhook integration
 // Mon Nov  3 15:33:08 KST 2025 - refactor(runtime): isolate failover controller for independent scaling
 // Mon Nov  3 15:33:08 KST 2025 - perf(agent): tune heartbeat interval for better failure sensitivity
+// Mon Nov  3 15:33:08 KST 2025 - test(integration): validate Loki + Prometheus + Tempo observability stack
